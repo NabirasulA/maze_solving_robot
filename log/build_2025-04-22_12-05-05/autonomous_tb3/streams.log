@@ -1,0 +1,60 @@
+[0.011s] Invoking command in '/home/yashwanth/Desktop/maze_solving/Autonomous-Maze-Solving-Turtlebot3-Simulation/build/autonomous_tb3': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/yashwanth/Desktop/maze_solving/Autonomous-Maze-Solving-Turtlebot3-Simulation/build/autonomous_tb3 -- -j6 -l6
+[0.115s] Built target ament_cmake_python_copy_script
+[0.324s] running egg_info
+[0.325s] writing script.egg-info/PKG-INFO
+[0.327s] writing dependency_links to script.egg-info/dependency_links.txt
+[0.327s] writing top-level names to script.egg-info/top_level.txt
+[0.329s] reading manifest file 'script.egg-info/SOURCES.txt'
+[0.329s] writing manifest file 'script.egg-info/SOURCES.txt'
+[0.355s] Built target ament_cmake_python_build_script_egg
+[0.365s] Invoked command in '/home/yashwanth/Desktop/maze_solving/Autonomous-Maze-Solving-Turtlebot3-Simulation/build/autonomous_tb3' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/yashwanth/Desktop/maze_solving/Autonomous-Maze-Solving-Turtlebot3-Simulation/build/autonomous_tb3 -- -j6 -l6
+[0.374s] Invoking command in '/home/yashwanth/Desktop/maze_solving/Autonomous-Maze-Solving-Turtlebot3-Simulation/build/autonomous_tb3': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/yashwanth/Desktop/maze_solving/Autonomous-Maze-Solving-Turtlebot3-Simulation/build/autonomous_tb3
+[0.380s] -- Install configuration: ""
+[0.380s] -- Up-to-date: /home/yashwanth/Desktop/maze_solving/Autonomous-Maze-Solving-Turtlebot3-Simulation/install/autonomous_tb3/share/autonomous_tb3/environment/pythonpath.sh
+[0.380s] -- Up-to-date: /home/yashwanth/Desktop/maze_solving/Autonomous-Maze-Solving-Turtlebot3-Simulation/install/autonomous_tb3/share/autonomous_tb3/environment/pythonpath.dsv
+[0.380s] -- Up-to-date: /home/yashwanth/Desktop/maze_solving/Autonomous-Maze-Solving-Turtlebot3-Simulation/install/autonomous_tb3/local/lib/python3.10/dist-packages/script-0.0.0-py3.10.egg-info
+[0.380s] -- Installing: /home/yashwanth/Desktop/maze_solving/Autonomous-Maze-Solving-Turtlebot3-Simulation/install/autonomous_tb3/local/lib/python3.10/dist-packages/script-0.0.0-py3.10.egg-info/SOURCES.txt
+[0.381s] -- Installing: /home/yashwanth/Desktop/maze_solving/Autonomous-Maze-Solving-Turtlebot3-Simulation/install/autonomous_tb3/local/lib/python3.10/dist-packages/script-0.0.0-py3.10.egg-info/PKG-INFO
+[0.381s] -- Installing: /home/yashwanth/Desktop/maze_solving/Autonomous-Maze-Solving-Turtlebot3-Simulation/install/autonomous_tb3/local/lib/python3.10/dist-packages/script-0.0.0-py3.10.egg-info/dependency_links.txt
+[0.381s] -- Installing: /home/yashwanth/Desktop/maze_solving/Autonomous-Maze-Solving-Turtlebot3-Simulation/install/autonomous_tb3/local/lib/python3.10/dist-packages/script-0.0.0-py3.10.egg-info/top_level.txt
+[0.382s] -- Up-to-date: /home/yashwanth/Desktop/maze_solving/Autonomous-Maze-Solving-Turtlebot3-Simulation/install/autonomous_tb3/local/lib/python3.10/dist-packages/script
+[0.382s] -- Up-to-date: /home/yashwanth/Desktop/maze_solving/Autonomous-Maze-Solving-Turtlebot3-Simulation/install/autonomous_tb3/local/lib/python3.10/dist-packages/script/entity_spawner.py
+[0.382s] -- Up-to-date: /home/yashwanth/Desktop/maze_solving/Autonomous-Maze-Solving-Turtlebot3-Simulation/install/autonomous_tb3/local/lib/python3.10/dist-packages/script/maze_solver.py
+[0.382s] -- Up-to-date: /home/yashwanth/Desktop/maze_solving/Autonomous-Maze-Solving-Turtlebot3-Simulation/install/autonomous_tb3/local/lib/python3.10/dist-packages/script/occupancy_grid_pub.py
+[0.382s] -- Up-to-date: /home/yashwanth/Desktop/maze_solving/Autonomous-Maze-Solving-Turtlebot3-Simulation/install/autonomous_tb3/local/lib/python3.10/dist-packages/script/__init__.py
+[0.403s] Listing '/home/yashwanth/Desktop/maze_solving/Autonomous-Maze-Solving-Turtlebot3-Simulation/install/autonomous_tb3/local/lib/python3.10/dist-packages/script'...
+[0.419s] -- Up-to-date: /home/yashwanth/Desktop/maze_solving/Autonomous-Maze-Solving-Turtlebot3-Simulation/install/autonomous_tb3/lib/autonomous_tb3/occupancy_grid_pub.py
+[0.419s] -- Up-to-date: /home/yashwanth/Desktop/maze_solving/Autonomous-Maze-Solving-Turtlebot3-Simulation/install/autonomous_tb3/lib/autonomous_tb3/entity_spawner.py
+[0.423s] -- Up-to-date: /home/yashwanth/Desktop/maze_solving/Autonomous-Maze-Solving-Turtlebot3-Simulation/install/autonomous_tb3/lib/autonomous_tb3/maze_solver.py
+[0.423s] -- Up-to-date: /home/yashwanth/Desktop/maze_solving/Autonomous-Maze-Solving-Turtlebot3-Simulation/install/autonomous_tb3/share/autonomous_tb3//config
+[0.424s] -- Up-to-date: /home/yashwanth/Desktop/maze_solving/Autonomous-Maze-Solving-Turtlebot3-Simulation/install/autonomous_tb3/share/autonomous_tb3//config/maze_map.pgm
+[0.424s] -- Up-to-date: /home/yashwanth/Desktop/maze_solving/Autonomous-Maze-Solving-Turtlebot3-Simulation/install/autonomous_tb3/share/autonomous_tb3//config/tb3_world_2d_map.yaml
+[0.425s] -- Up-to-date: /home/yashwanth/Desktop/maze_solving/Autonomous-Maze-Solving-Turtlebot3-Simulation/install/autonomous_tb3/share/autonomous_tb3//config/tb3_nav.rviz
+[0.425s] -- Up-to-date: /home/yashwanth/Desktop/maze_solving/Autonomous-Maze-Solving-Turtlebot3-Simulation/install/autonomous_tb3/share/autonomous_tb3//config/maze_map.yaml
+[0.425s] -- Up-to-date: /home/yashwanth/Desktop/maze_solving/Autonomous-Maze-Solving-Turtlebot3-Simulation/install/autonomous_tb3/share/autonomous_tb3//config/tb3_nav_params.yaml
+[0.426s] -- Up-to-date: /home/yashwanth/Desktop/maze_solving/Autonomous-Maze-Solving-Turtlebot3-Simulation/install/autonomous_tb3/share/autonomous_tb3//config/turtlebot3_cartographer.lua
+[0.426s] -- Up-to-date: /home/yashwanth/Desktop/maze_solving/Autonomous-Maze-Solving-Turtlebot3-Simulation/install/autonomous_tb3/share/autonomous_tb3//config/tb3_world_2d_map.pgm
+[0.426s] -- Up-to-date: /home/yashwanth/Desktop/maze_solving/Autonomous-Maze-Solving-Turtlebot3-Simulation/install/autonomous_tb3/share/autonomous_tb3//launch
+[0.426s] -- Up-to-date: /home/yashwanth/Desktop/maze_solving/Autonomous-Maze-Solving-Turtlebot3-Simulation/install/autonomous_tb3/share/autonomous_tb3//launch/tb3_maze_navigation.launch.py
+[0.426s] -- Up-to-date: /home/yashwanth/Desktop/maze_solving/Autonomous-Maze-Solving-Turtlebot3-Simulation/install/autonomous_tb3/share/autonomous_tb3//launch/navigation.launch.py
+[0.426s] -- Up-to-date: /home/yashwanth/Desktop/maze_solving/Autonomous-Maze-Solving-Turtlebot3-Simulation/install/autonomous_tb3/share/autonomous_tb3//launch/mapping.launch.py
+[0.426s] -- Up-to-date: /home/yashwanth/Desktop/maze_solving/Autonomous-Maze-Solving-Turtlebot3-Simulation/install/autonomous_tb3/share/autonomous_tb3//worlds
+[0.426s] -- Up-to-date: /home/yashwanth/Desktop/maze_solving/Autonomous-Maze-Solving-Turtlebot3-Simulation/install/autonomous_tb3/share/autonomous_tb3//worlds/tb3_maze_world
+[0.427s] -- Up-to-date: /home/yashwanth/Desktop/maze_solving/Autonomous-Maze-Solving-Turtlebot3-Simulation/install/autonomous_tb3/share/autonomous_tb3//worlds/tb3_maze_world/model.sdf
+[0.427s] -- Up-to-date: /home/yashwanth/Desktop/maze_solving/Autonomous-Maze-Solving-Turtlebot3-Simulation/install/autonomous_tb3/share/autonomous_tb3//worlds/tb3_maze_world/model.config
+[0.427s] -- Up-to-date: /home/yashwanth/Desktop/maze_solving/Autonomous-Maze-Solving-Turtlebot3-Simulation/install/autonomous_tb3/share/ament_index/resource_index/package_run_dependencies/autonomous_tb3
+[0.427s] -- Up-to-date: /home/yashwanth/Desktop/maze_solving/Autonomous-Maze-Solving-Turtlebot3-Simulation/install/autonomous_tb3/share/ament_index/resource_index/parent_prefix_path/autonomous_tb3
+[0.427s] -- Up-to-date: /home/yashwanth/Desktop/maze_solving/Autonomous-Maze-Solving-Turtlebot3-Simulation/install/autonomous_tb3/share/autonomous_tb3/environment/ament_prefix_path.sh
+[0.427s] -- Up-to-date: /home/yashwanth/Desktop/maze_solving/Autonomous-Maze-Solving-Turtlebot3-Simulation/install/autonomous_tb3/share/autonomous_tb3/environment/ament_prefix_path.dsv
+[0.427s] -- Up-to-date: /home/yashwanth/Desktop/maze_solving/Autonomous-Maze-Solving-Turtlebot3-Simulation/install/autonomous_tb3/share/autonomous_tb3/environment/path.sh
+[0.427s] -- Up-to-date: /home/yashwanth/Desktop/maze_solving/Autonomous-Maze-Solving-Turtlebot3-Simulation/install/autonomous_tb3/share/autonomous_tb3/environment/path.dsv
+[0.427s] -- Up-to-date: /home/yashwanth/Desktop/maze_solving/Autonomous-Maze-Solving-Turtlebot3-Simulation/install/autonomous_tb3/share/autonomous_tb3/local_setup.bash
+[0.427s] -- Up-to-date: /home/yashwanth/Desktop/maze_solving/Autonomous-Maze-Solving-Turtlebot3-Simulation/install/autonomous_tb3/share/autonomous_tb3/local_setup.sh
+[0.428s] -- Up-to-date: /home/yashwanth/Desktop/maze_solving/Autonomous-Maze-Solving-Turtlebot3-Simulation/install/autonomous_tb3/share/autonomous_tb3/local_setup.zsh
+[0.428s] -- Up-to-date: /home/yashwanth/Desktop/maze_solving/Autonomous-Maze-Solving-Turtlebot3-Simulation/install/autonomous_tb3/share/autonomous_tb3/local_setup.dsv
+[0.428s] -- Installing: /home/yashwanth/Desktop/maze_solving/Autonomous-Maze-Solving-Turtlebot3-Simulation/install/autonomous_tb3/share/autonomous_tb3/package.dsv
+[0.428s] -- Up-to-date: /home/yashwanth/Desktop/maze_solving/Autonomous-Maze-Solving-Turtlebot3-Simulation/install/autonomous_tb3/share/ament_index/resource_index/packages/autonomous_tb3
+[0.428s] -- Up-to-date: /home/yashwanth/Desktop/maze_solving/Autonomous-Maze-Solving-Turtlebot3-Simulation/install/autonomous_tb3/share/autonomous_tb3/cmake/autonomous_tb3Config.cmake
+[0.428s] -- Up-to-date: /home/yashwanth/Desktop/maze_solving/Autonomous-Maze-Solving-Turtlebot3-Simulation/install/autonomous_tb3/share/autonomous_tb3/cmake/autonomous_tb3Config-version.cmake
+[0.428s] -- Up-to-date: /home/yashwanth/Desktop/maze_solving/Autonomous-Maze-Solving-Turtlebot3-Simulation/install/autonomous_tb3/share/autonomous_tb3/package.xml
+[0.428s] Invoked command in '/home/yashwanth/Desktop/maze_solving/Autonomous-Maze-Solving-Turtlebot3-Simulation/build/autonomous_tb3' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/yashwanth/Desktop/maze_solving/Autonomous-Maze-Solving-Turtlebot3-Simulation/build/autonomous_tb3
